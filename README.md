@@ -1,1 +1,2 @@
-# birthday_scrapbook
+index.html
+pics/ (folder)
